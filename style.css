@@ -1,0 +1,3 @@
+.grid{height: 500px;width: 500px;margin: auto;background: #ddd;position: absolute;margin-left: 400px;}
+.user_bar {width: 25px;height: 6px;background: green;position: relative;top:480px;}
+.user_con {width: 10px;height: 10px;border-radius: 10px;background: red;position: relative;}
