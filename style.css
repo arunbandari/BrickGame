@@ -1,5 +1,6 @@
-.grid{height: 500px;width: 500px;margin: auto;background: #ddd;position: absolute;margin-left: 400px;}
-.user_bar {width: 25px;height: 6px;background: green;position: relative;top:480px;}
+.grid{height: 300px;width: 310px;margin: auto;background: #ddd;position: absolute;margin-left: 400px;}
+.user_bar {width: 25px;height: 6px;background: green;position: relative;top:280px;}
 .user_con {width: 10px;height: 10px;border-radius: 10px;background: red;position: relative;}
-.brick {width: 30px;height: 10px;background: red;position: absolute;}
+.brick {width: 30px;height: 10px;background: firebrick;position: absolute;}
 #brick_block {position: absolute;}
+.score{margin-left: 400px;height: 50px;width: 310px;background: #ddd;margin-bottom: 5px;font-size: 20px;text-align: center;font-weight: bold;}
